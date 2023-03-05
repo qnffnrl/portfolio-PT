@@ -1,6 +1,6 @@
 # 안효원 포트폴리오
 
->해결사가 되고 싶은 Trouble Shooter, &nbsp; <u>신입 벡엔드 개발자 </u> <br/> 안효원의 포트폴리오 입니다
+>해결사가 되고 싶은 Trouble Shooter, <u>신입 벡엔드 개발자 </u> <br/> 안효원의 포트폴리오 입니다
 
 <br/>
 
@@ -22,11 +22,11 @@
 >Spring Boot를 활용한 웹 게시판 제작 (개인 프로젝트)<br/>
 >개발 기간 : 2022.09 ~ 2022.11<br/>
 > 
->기술 스택 :<br/>
+>기술 스택<br/>
 ><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-004088?style=for-the-badge&logoColor=white">
 ><img src="https://img.shields.io/badge/Mustache-ECD53F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
 ><img src="https://img.shields.io/badge/REST API-0094F5?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white">
-><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/OAuth-006600?style=for-the-badge&logo=OAuth&logoColor=white"><br/>
+><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/OAuth-006600?style=for-the-badge&logo=OAuth&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 > 
 >구현한 기능
 > * 게시글/댓글 CRUD 
@@ -58,13 +58,13 @@
 <br/>
 
 ### 2. [TTS를 활용한 파일 리딩 프로그램](https://github.com/qnffnrl/2022_1_capstone)
->2022년도 1학기 캡스톤디자인 MTB팀 - TTS를 활용한 파일 리딩 프로그램 제작 (5인 프로젝트)
+>2022년도 1학기 캡스톤디자인 MTB팀 - TTS를 활용한 파일 리딩 프로그램 제작 (5인 프로젝트)</br>
 >개발 기간 : 2022.03 ~ 2022.06<br/>
 >
->기술 스택 :<br/>
+>기술 스택<br/>
 ><img src="https://img.shields.io/badge/JAVA-004088?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/JSP-0099E5?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Apache POI-C71A36?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/TTS-FF9E0F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> 
-><img src="https://img.shields.io/badge/Raspberry PI-A22846?style=for-the-badge&logo=Raspberry PI&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><br/>
+><img src="https://img.shields.io/badge/Raspberry PI-A22846?style=for-the-badge&logo=Raspberry PI&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 > 
 > 역할
 > * <u>팀장(본인) : 프로젝트 기획 및 총괄, 벡엔드 전체 담당, 주요 로직 개발</u> 
@@ -88,8 +88,66 @@
 > * [팀 블로그](https://cafe.naver.com/riskers)
 > * [배포 페이지](http://riskers.iptime.org:10000)
 
-## :pushpin: Web Board Gallery
->![springboot (사용자 지정)](https://user-images.githubusercontent.com/71891870/222945728-484b6866-ce1e-4b74-88a9-5b82f9fa256c.png)
->![tts](https://user-images.githubusercontent.com/71891870/222945834-b6e19069-7c91-4cda-a37d-e0b9f3626de9.png)
->![react (사용자 지정)](https://user-images.githubusercontent.com/71891870/222945845-edae75fd-8ec5-4a4c-97c8-4f171113c7d8.png)
->![bsb (사용자 지정)](https://user-images.githubusercontent.com/71891870/222945854-64bdbd2c-8145-4ef2-be05-a5e93f48de80.png)
+<br/>
+
+### 3. [ESS 모니터링 페이지 개발](https://github.com/qnffnrl/webSocket)
+>(주)BA에너지 ESS 모니터링 페이지 외주 개발 (개인 프로젝트)</br>
+>개발 기간 : 2022.11 ~ 2022.12</br>
+> 
+>기술 스택</br>
+><img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">
+><img src="https://img.shields.io/badge/CentOS 7-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+> 
+>구현한 기능
+> * ESS 정보 실시간 통신
+> * ESS 정보를 차트 형태로 표현
+> * ESS 위치 정보를 지도 API로 표시
+> * Dark <-> Light, Theme 변경 기능
+>
+><details>
+>   <summary>Preview</summary>
+>   
+>   ![b (소형)](https://user-images.githubusercontent.com/71891870/222959165-d9c2e280-38b0-442c-a022-9a2136b53b1f.png)
+></details>
+>
+><details>
+>   <summary>Mockup</summary>
+>
+>   ![201109172-a13c7ca8-c8a5-4f5f-bef6-8c8cd6525607 (소형)](https://user-images.githubusercontent.com/71891870/222959223-dd8752fd-74a3-4f71-9f57-6c7476bb60a8.png)
+></details>
+>
+> * [메인 Repository](https://github.com/qnffnrl/webSocket)
+> * [배포 페이지](http://www.risker.shop/bsb/)
+
+<br/>
+
+### 4. [React 웹 포트폴리오 제작](https://qnffnrl.github.io)
+>React 프레임워크를 활용한 SPA 형태의 웹 포트폴리오 제작 (개인 프로젝트)</br>
+>개발 기간 : 2022.12.17 ~ 2022.12.28</br> 
+>
+>기술 스택</br>
+><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/web Components-29ABE2?style=for-the-badge&logo=Component&logoColor=white">
+><img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"> <img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=Github Pages&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+> 
+>구현한 기능
+> * SPA 애플리케이션
+> * 중복 코드 Component로 간소화
+> * Modal 기능
+> 
+> <details>
+>   <summary>Preview</summary>
+>
+>   ![r (소형)](https://user-images.githubusercontent.com/71891870/222966428-ef1df94a-7956-4a39-9424-f778f6a8535c.png)
+> 
+>   ![r2 (소형)](https://user-images.githubusercontent.com/71891870/222966487-7a8c36c2-22c0-4486-a1cb-d178f2724a0f.png)
+></details>
+>
+> * [메인 Repository](https://github.com/qnffnrl/portfolio)
+> * [배포 페이지](https://qnffnrl.github.io)
+
+## :pushpin: Web 게시판 Gallery
+* Spring Boot / LAMP / JSP, Servlet / MERN 
+>![springboot (사용자 지정) (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964123-5d94ba69-ead0-485c-8578-f24409efc47d.png)
+>![cover (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964769-37e51a9d-c316-4c59-ae1b-93d1aacde81b.png)
+>![cover2 (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964777-515d3515-1677-44ee-8a3c-7a6ac1b720cb.png)
+>![cover3 (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964787-ca6da340-f7f4-40e5-88ef-a83b7d08edaa.png)
