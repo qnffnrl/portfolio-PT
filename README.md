@@ -21,5 +21,7 @@
 ### 1. [Spring Boot 웹 게시판](https://github.com/qnffnrl/springbootBoard) 
 >Spring Boot를 활용한 웹 게시판 제작 (개인 프로젝트)<br/>
 >개발 기간 : 2022.09 ~ 2022.11<br/>
+> 기술 스택 :<br/>
 ><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Mustache-ECD53F?style=for-the-badge&logoColor=white">
-><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/REST API-0094F5?style=for-the-badge&logoColor=white">
+><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
