@@ -83,6 +83,12 @@
 > 
 >   ![t2 (소형)](https://user-images.githubusercontent.com/71891870/222955016-513d1553-dd9e-4ebc-9186-11a9c9ed941d.png)
 > </details>
+>
+><details>
+>   <summary>Logic Flow</summary>
+>
+>   ![Screenshot_20230306_123956_Noteshelf (소형)](https://user-images.githubusercontent.com/71891870/223015117-f9f03dcc-4856-45b7-be9a-69df27f9bb90.jpg)
+></details>
 > 
 > * [메인 Repository](https://github.com/qnffnrl/2022_1_capstone)
 > * [팀 블로그](https://cafe.naver.com/riskers)
