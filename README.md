@@ -42,13 +42,13 @@
 > * Github의 Webhooks 기능을 활용하여 Jenkins와 연동해 소스 커밋 시 자동으로 빌드 및 배포 하도록 설정 
 >
 ><details>
->   <summary><em>Preview</em></summary>
+>   <summary>Preview</summary>
 >
 >   ![s (소형)](https://user-images.githubusercontent.com/71891870/222947017-50b197bb-fce9-42ea-b137-e813011d5073.png)<br/>
 ></details> 
 >
 ><details>
->   <summary><em>ERD</em></summary>
+>   <summary>ERD</summary>
 >
 >   ![springboot_ERD](https://user-images.githubusercontent.com/71891870/222946815-7e9def37-72c8-418d-ae16-fd6371e319fc.png)
 ></details>
