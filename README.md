@@ -153,7 +153,7 @@
 
 ## :pushpin: Web 게시판 Gallery
 * Spring Boot / LAMP / JSP, Servlet / MERN 
->![springboot (사용자 지정) (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964123-5d94ba69-ead0-485c-8578-f24409efc47d.png)
->![cover (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964769-37e51a9d-c316-4c59-ae1b-93d1aacde81b.png)
->![cover2 (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964777-515d3515-1677-44ee-8a3c-7a6ac1b720cb.png)
->![cover3 (사용자 지정)](https://user-images.githubusercontent.com/71891870/222964787-ca6da340-f7f4-40e5-88ef-a83b7d08edaa.png)
+>![s (사용자 지정)](https://user-images.githubusercontent.com/71891870/223015766-5cbf91f6-b5f6-46ec-9078-bc17cc93193b.png)
+>![p (사용자 지정)](https://user-images.githubusercontent.com/71891870/223015773-c1c18f1f-530a-4637-889b-e16b5a0b2228.png)
+>![j (사용자 지정)](https://user-images.githubusercontent.com/71891870/223015777-99e36506-2365-4bd2-bc77-0a58097732d0.png)
+>![m (사용자 지정)](https://user-images.githubusercontent.com/71891870/223015780-176cfb8c-b3a9-46cc-a219-44c6f36fc767.png)
