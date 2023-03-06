@@ -18,7 +18,7 @@
 <br/>
 
 ## :pushpin: Project
-### 1. [Spring Boot 웹 게시판](https://github.com/qnffnrl/springbootBoard)
+### 1. [Spring Boot 웹 게시판](https://github.com/qnffnrl/springbootBoard) :point_left:
 >Spring Boot를 활용한 웹 게시판 제작 (개인 프로젝트)<br/>
 >개발 기간 : 2022.09 ~ 2022.11<br/>
 > 
@@ -54,11 +54,11 @@
 >   ![springboot_ERD](https://user-images.githubusercontent.com/71891870/222946815-7e9def37-72c8-418d-ae16-fd6371e319fc.png)
 ></details>
 >
-> * [메인 Repository](https://github.com/qnffnrl/springbootBoard)
+> * [메인 Repository](https://github.com/qnffnrl/springbootBoard) :point_left:
 
 <br/>
 
-### 2. [TTS를 활용한 파일 리딩 프로그램](https://github.com/qnffnrl/2022_1_capstone)
+### 2. [TTS를 활용한 파일 리딩 프로그램](https://github.com/qnffnrl/2022_1_capstone) :point_left:
 >2022년도 1학기 캡스톤디자인 MTB팀 - TTS를 활용한 파일 리딩 프로그램 제작 (5인 프로젝트)</br>
 >개발 기간 : 2022.03 ~ 2022.06<br/>
 >
@@ -91,13 +91,13 @@
 >   ![Screenshot_20230306_123956_Noteshelf (소형)](https://user-images.githubusercontent.com/71891870/223015117-f9f03dcc-4856-45b7-be9a-69df27f9bb90.jpg)
 ></details>
 > 
-> * [메인 Repository](https://github.com/qnffnrl/2022_1_capstone)
-> * [팀 블로그](https://cafe.naver.com/riskers)
-> * [배포 페이지](http://riskers.iptime.org:10000)
+> * [메인 Repository](https://github.com/qnffnrl/2022_1_capstone) :point_left:
+> * [팀 블로그](https://cafe.naver.com/riskers) :point_left:
+> * [배포 페이지](http://riskers.iptime.org:10000) :point_left:
 
 <br/>
 
-### 3. [ESS 모니터링 페이지 개발](https://github.com/qnffnrl/webSocket)
+### 3. [ESS 모니터링 페이지 개발](https://github.com/qnffnrl/webSocket) :point_left:
 >(주)BA에너지 ESS 모니터링 페이지 외주 개발 (개인 프로젝트)</br>
 >개발 기간 : 2022.11 ~ 2022.12</br>
 > 
@@ -123,12 +123,12 @@
 >   ![201109172-a13c7ca8-c8a5-4f5f-bef6-8c8cd6525607 (소형)](https://user-images.githubusercontent.com/71891870/222959223-dd8752fd-74a3-4f71-9f57-6c7476bb60a8.png)
 ></details>
 >
-> * [메인 Repository](https://github.com/qnffnrl/webSocket)
-> * [배포 페이지](http://www.risker.shop/bsb/)
+> * [메인 Repository](https://github.com/qnffnrl/webSocket) :point_left:
+> * [배포 페이지](http://www.risker.shop/bsb/) :point_left:
 
 <br/>
 
-### 4. [React 웹 포트폴리오 제작](https://qnffnrl.github.io)
+### 4. [React 웹 포트폴리오 제작](https://qnffnrl.github.io) :point_left:
 >React 프레임워크를 활용한 SPA 형태의 웹 포트폴리오 제작 (개인 프로젝트)</br>
 >개발 기간 : 2022.12.17 ~ 2022.12.28</br> 
 >
@@ -149,8 +149,8 @@
 >   ![r2 (소형)](https://user-images.githubusercontent.com/71891870/222966487-7a8c36c2-22c0-4486-a1cb-d178f2724a0f.png)
 ></details>
 >
-> * [메인 Repository](https://github.com/qnffnrl/portfolio)
-> * [배포 페이지](https://qnffnrl.github.io)
+> * [메인 Repository](https://github.com/qnffnrl/portfolio) :point_left:
+> * [배포 페이지](https://qnffnrl.github.io) :point_left:
 
 ## :pushpin: Web 게시판 Gallery
 * Spring Boot / LAMP / JSP, Servlet / MERN 
